@@ -1,0 +1,4 @@
+(executable 
+(name kahn )
+(libraries threads)
+(flags ()))
